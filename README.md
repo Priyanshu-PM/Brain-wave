@@ -1,6 +1,8 @@
 <div align="center">
   <br />
       <img src="src\assets\wallpaper.png" alt="Project Banner">
+      <br/>
+      <br/>
       <img src="src\assets\hero2.png" alt="Features Banner">
     </a>
   <br />
