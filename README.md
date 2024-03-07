@@ -808,7 +808,3 @@ export default Roadmap;
 ```
 
 </details>
-
-## <a name="more">🚀 More</a>
-
-#
